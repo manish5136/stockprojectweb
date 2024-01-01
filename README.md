@@ -54,32 +54,8 @@ The Stock Market Dashboard is an interactive platform for users to view and anal
 - Documentation
 - Prepare for Submission
 
-## Rubric
-
-### Rubric for Web Application
-- Functionality
-- Code Quality
-- Design and User Experience
-- Testing and Reliability
-- Documentation and Version Control
-
-### Rubric for Mobile Application
-- Functionality
-- Code Quality
-- Design and User Experience
-
-## API Key
-
-### IEX Cloud
-- Sign up to the account with a Free plan on [IEX Cloud](https://iexcloud.io/)
-- Use the public API key provided in the Home page
-- Base URL: [https://api.iexcloud.io](https://api.iexcloud.io)
-- API Reference: [IEX Cloud API Reference](https://iexcloud.io/docs/)
-
-## Submission Format
-
 ### Source Code Repository
-- [GitHub/GitLab repository URL]
+- (https://github.com/manish5136/stockprojectweb.git)
 
 ### README File
 - Project overview
